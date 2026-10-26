@@ -5,7 +5,7 @@
   "interstitial_enabled": true,
   "rewarded_enabled": true,
   "app_open_enabled": true,
-  "reward_unlock_enabled": true,
+  "reward_unlock_enabled": false,
   "refresh_interval_seconds": 60,
   "ad_units": {
     "banner": "ca-app-pub-3940256099942544/6300978111",
